@@ -1,4 +1,10 @@
+:setvar ScriptPath "E:\github\DemoDB\DemoDB\"
 
-:r E:\github\DemoDB\DemoDB\0-Create_DemoDB.database.sql
+:r $(ScriptPath)0-Create_DemoDB.database.sql
 
-:r E:\github\DemoDB\DemoDB\1-Create_s.schema.sql
+:r $(ScriptPath)1-Create_s.schema.sql
+
+:r $(ScriptPath)2-Create_s_t.table.sql
+
+:r $(ScriptPath)3-Create_s_v.view.sql
+

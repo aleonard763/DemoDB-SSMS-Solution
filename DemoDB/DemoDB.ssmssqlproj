@@ -19,6 +19,12 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
+        <FileNode Name="_Build.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:vSql19\Demo:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>vSql19\Demo</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_Build.sql</FullPath>
+        </FileNode>
         <FileNode Name="0-Create_DemoDB.database.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:vSql19\Demo:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>vSql19\Demo</AssociatedConnSrvName>
@@ -30,6 +36,18 @@
           <AssociatedConnSrvName>vSql19\Demo</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>1-Create_s.schema.sql</FullPath>
+        </FileNode>
+        <FileNode Name="2-Create_s_t.table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:vSql19\Demo:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>vSql19\Demo</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>2-Create_s_t.table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="3-Create_s_v.view.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:vSql19\Demo:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>vSql19\Demo</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>3-Create_s_v.view.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
