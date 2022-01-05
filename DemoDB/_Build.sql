@@ -8,3 +8,4 @@
 
 :r $(ScriptPath)3-Create_s_v.view.sql
 
+:r $(ScriptPath)4-Create_s_i.procedure.sql

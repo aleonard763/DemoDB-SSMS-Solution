@@ -49,6 +49,12 @@
           <AssociatedConnUserName />
           <FullPath>3-Create_s_v.view.sql</FullPath>
         </FileNode>
+        <FileNode Name="4-Create_s_i.procedure.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>4-Create_s_i.procedure.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
